@@ -3,4 +3,4 @@ A Java Web Browser written in the Swing framework for the CSC2012 Advanced Java 
 
 Uses an MVC Design Pattern and includes some JUnit Unit Tests too.
 
-Recieved 100%.
+Received 100%.
